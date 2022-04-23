@@ -44,13 +44,13 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 Overall
-![/] https://recordit.co/E7KyHJ5m2N   
+![/] http://g.recordit.co/E7KyHJ5m2N.gif  
 
 Losing hearts
-![/] https://recordit.co/YQRK1brPUM
+![/] http://g.recordit.co/YQRK1brPUM.gif
 
 Difficulty toggle
-![/] https://recordit.co/epKpG1K1x6
+![/] http://g.recordit.co/epKpG1K1x6.gif
 
 ## Reflection Questions
 
