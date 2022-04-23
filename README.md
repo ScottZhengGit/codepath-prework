@@ -44,7 +44,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 Overall
-![/] http://g.recordit.co/E7KyHJ5m2N.gif  
+![/] http://g.recordit.co/J2SicCKtzV.gif 
 
 Losing hearts
 ![/] http://g.recordit.co/YQRK1brPUM.gif
